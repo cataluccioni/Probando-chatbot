@@ -1,0 +1,13 @@
+
+__pycache__/
+
+venv/
+.venv/
+
+.streamlit/
+
+*.pyc
+*~$*
+
+*.log
+tmp/
